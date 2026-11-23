@@ -1,0 +1,20 @@
+.footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.Redes {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.Redes img {
+  width: 40px;
+  height: 40px;
+}
